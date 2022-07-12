@@ -3,7 +3,8 @@ Input: printf("Unsigned octal:[%o]", 6);
 Output: Unsigned octal:[6] => 18
 Authors: Adelakun Kehinde iniobong Effiong
 
-Authors: Iniobong Effiong Adelakun Kehinde
+Authors: Idahota Akpasubi
+Adeyinka Adeniji
 
 Project Requirements
 All files will be compiled on Ubuntu 14.04 LTS
